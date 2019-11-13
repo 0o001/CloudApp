@@ -1,0 +1,57 @@
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\bin\Debug\CloudApp.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\bin\Debug\CloudApp.pdb
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\obj\x86\Debug\CloudApp.Properties.Resources.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\obj\x86\Debug\CloudApp.csproj.GenerateResource.Cache
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\obj\x86\Debug\CloudApp.exe
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\obj\x86\Debug\CloudApp.pdb
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\obj\x86\Debug\CloudApp.frm_liste.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\obj\x86\Debug\CloudApp.usr_oyun.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\obj\x86\Debug\CloudApp.usr_program.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\obj\x86\Debug\CloudApp.frm_oyun.resources
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+c:\users\mustafa\documents\visual studio 2010\Projects\CloudApp\obj\x86\Debug\CloudApp.csproj.ResolveComReference.cache
+C:\Users\mustafa\Documents\Visual Studio 2010\Projects\CloudApp\obj\x86\Debug\CloudApp.frm_program_yukle.resources
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.csproj.ResolveComReference.cache
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.exe
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.pdb
+C:\Users\mustafa\Desktop\CloudApp\bin\Debug\CloudApp.exe
+C:\Users\mustafa\Desktop\CloudApp\bin\Debug\CloudApp.pdb
+C:\Users\mustafa\Desktop\CloudApp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\mustafa\Desktop\CloudApp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.frm_liste.resources
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.frm_oyun.resources
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.Properties.Resources.resources
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.usr_oyun.resources
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.frm_konsol_yukle.resources
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.usr_konsol.resources
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.usr_form.resources
+C:\Users\mustafa\Desktop\CloudApp\obj\x86\Debug\CloudApp.frm_form_yukle.resources
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.csproj.ResolveComReference.cache
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.exe
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.pdb
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\bin\Debug\CloudApp.exe
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\bin\Debug\CloudApp.pdb
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.frm_form_yukle.resources
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.frm_liste.resources
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.frm_oyun.resources
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.frm_konsol_yukle.resources
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.Properties.Resources.resources
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.usr_form.resources
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.usr_oyun.resources
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.usr_konsol.resources
+C:\Users\mustafa\Desktop\Düzenle\CloudApp\obj\x86\Debug\CloudApp.csproj.GenerateResource.Cache
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\CloudApp\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\CloudApp\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\CloudApp\obj\x86\Debug\CloudApp.csproj.ResolveComReference.cache
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\CloudApp\obj\x86\Debug\CloudApp.exe
+C:\Users\mustafa\Desktop\Yeni klasör\C sharp\CloudApp\obj\x86\Debug\CloudApp.pdb
